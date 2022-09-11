@@ -25,4 +25,4 @@ ln -s $HOME/workspace/dot.hyper.js/.hyper.js $HOME/.hyper.js
 
 This is what you gonna get =>
 
-![screenshot](./.img/screenshot.png)
+![screenshot](https://res.cloudinary.com/mannuel/image/upload/v1662871336/images/hyper-screenshot.png)
