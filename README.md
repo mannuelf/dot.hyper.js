@@ -2,10 +2,9 @@
 
 My hyper terminal config file.
 
-
 ## What is hyper?
 
-A [hyper](https://hyper.is) web based terminal built by [Vercel](https://vercel.com), built using [ElectronJS](https://www.electronjs.org).
+[hyper](https://hyper.is) web based terminal built by [Vercel](https://vercel.com), built using [ElectronJS](https://www.electronjs.org).
 
 ## How to use
 
@@ -26,4 +25,4 @@ ln -s $HOME/workspace/dot.hyper.js/.hyper.js $HOME/.hyper.js
 
 This is what you gonna get =>
 
-![screenshot](./img/screenshot.png)
+![screenshot](./.img/screenshot.png)
